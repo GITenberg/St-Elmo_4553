@@ -1,0 +1,28 @@
+_repo: St-Elmo_4553
+creator:
+  author:
+    agent_name: Evans, Augusta J. (Augusta Jane)
+    aliases:
+    - Wilson, Augusta Jane Evans
+    - Wilson, Augusta Evans
+    - Wilson, Augusta J. Evans
+    birthdate: 1835
+    deathdate: 1909
+    gutenberg_agent_id: '1399'
+    url: http://www.gutenberg.org/2009/agents/1399
+description: ''
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4553'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'War stories'
+- !lcsh 'Domestic fiction'
+- !lcc 'PS'
+- !lcsh 'Alabama -- History -- Civil War, 1861-1865 -- Fiction'
+title: St. Elmo
+url: http://www.gutenberg.org/ebooks/4553
