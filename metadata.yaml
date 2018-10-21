@@ -1,5 +1,5 @@
 _repo: St-Elmo_4553
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,5 +30,6 @@ subjects:
 - !lcsh 'Domestic fiction'
 - !lcc 'PS'
 - !lcsh 'Alabama -- History -- Civil War, 1861-1865 -- Fiction'
+- GITenberg
 title: St. Elmo
 url: http://www.gutenberg.org/ebooks/4553
